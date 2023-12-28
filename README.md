@@ -1,5 +1,6 @@
 # FP Grafika Komputer (GAME HOUSE)
 
+
 |NRP|NAMA|
 |------------|----------------------|
 |5025211109	| Dewangga Dika Darmawan|
